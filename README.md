@@ -1,5 +1,4 @@
 - 👋 Hi, Syabil for short.
-- 💞️ Proud Digizen!
 
 <!---
 syabil-digix/syabil-digix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
